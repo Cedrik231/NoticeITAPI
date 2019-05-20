@@ -1,2 +1,0 @@
-# NoticeITAPI
-API for NoticeIT
